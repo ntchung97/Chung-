@@ -1,1 +1,1 @@
-https://github.com/ntchung97/Test/blob/main/QR1.jpg?raw=true
+![image alt]https://github.com/ntchung97/Test/blob/282c39359dc25cb3271c8a00899ade47ec903e3d/TPQ_2212.jpg
